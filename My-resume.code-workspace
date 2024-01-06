@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/theblackgold8/My-resume"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu",
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
